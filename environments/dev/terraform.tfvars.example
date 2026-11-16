@@ -1,0 +1,4 @@
+aws_region      = "eu-central-1"
+environment     = "dev"
+image_tag       = "1.0.0"
+certificate_arn = ""
